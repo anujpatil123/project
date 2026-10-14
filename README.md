@@ -81,7 +81,7 @@ This project does not yet specify a license. See repository for updates.
 
 ## Author
 
-Developed by [karan95427](https://github.com/karan95427)
+Developed by [anujpatil123](https://github.com/anujpatil123)
 
 ---
 Feel free to open an issue or PR for contributions or bug reports!
